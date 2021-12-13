@@ -18,7 +18,7 @@ export default function InputFormExample() {
     console.log(data)
   }
   return (
-    <Form onSubmit={onSubmit} className="w-full divide-y divide-rose-400">
+    <Form onSubmit={onSubmit} className="w-full divide-y divide-slate-200">
       <div>
         <TextInput
           className="mb-4"
